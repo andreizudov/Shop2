@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(229, 238, 238);
+    
+}
+
+nav{
+    background-color: rgb(14, 175, 63);
+  
+    padding: 2%;
+    text-align: left;
+    
+}
+
+.mainInfo{
+    height: 10%;
+}
